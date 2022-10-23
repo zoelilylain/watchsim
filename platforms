@@ -1,0 +1,16 @@
+UXN:
+./uxnasm [.tal file] or use the launcher.rom's self-compiler
+
+unfunny linux:
+make
+not really much more to it
+
+gba:
+rename the "gamegirl.make" to makefile
+finally, just run make
+(famous last words)
+
+if it halts and catches fire, try again or file a bug report.
+if it's reading your time wrong, make sure your actual clock is correct first
+if it's telling your time of death, I would exorcise your computing station of spirits first
+if it's stuck on the exact moment the Titanic sunk, i cannot help you
